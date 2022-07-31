@@ -9,8 +9,8 @@ Library to interface with Maxim ICM7218C LED driver chips. Compatible with Ardui
    chips from Maxim.
    While these other chips provide similar capabilities, this library
    was specifically designed for the Maxim ICM7218C variant.
-   This library will function properly with other A/B chips and may
-   not function out of the box for the D varient..
+   This library will not function properly with other A/B chips and
+   may or not not function out of the box for the D varient..
    https://facebook.com/werelwolf
 
    Interface requires up to 10 digital out pins for full support of
